@@ -1,0 +1,4 @@
+$(function() {
+   $(".separator:first").remove();
+      $(".post-body > img:first").remove();
+                      });
